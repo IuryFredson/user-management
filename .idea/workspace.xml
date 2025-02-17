@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="12f66a73-d44b-4868-bb19-b109e25640fd" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../ITP/barcode-pbm-ean8" beforeDir="false" afterPath="$PROJECT_DIR$/../ITP/barcode-pbm-ean8" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkers1/checkers/Cargo.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkers1/checkers/Cargo.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkers1/checkers/src/board.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkers1/checkers/src/game.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkers1/checkers/src/main.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkers1/checkers/src/network.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkers1/checkers/src/types.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkers1/checkers/src/ui.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkers1/checkers/target/.rustc_info.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkers1/checkers/target/CACHEDIR.TAG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkers1/checkers/target/debug/.cargo-lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkers1/checkers/target/debug/.fingerprint/checkers-06dffb1b6259daf3/bin-checkers" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkers1/checkers/target/debug/.fingerprint/checkers-06dffb1b6259daf3/bin-checkers.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkers1/checkers/target/debug/.fingerprint/checkers-06dffb1b6259daf3/dep-bin-checkers" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkers1/checkers/target/debug/.fingerprint/checkers-06dffb1b6259daf3/invoked.timestamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkers1/checkers/target/debug/.fingerprint/checkers-06dffb1b6259daf3/output-bin-checkers" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkers1/checkers/target/debug/.fingerprint/checkers-74283bc8e58c8bd8/dep-test-bin-checkers" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkers1/checkers/target/debug/.fingerprint/checkers-74283bc8e58c8bd8/invoked.timestamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkers1/checkers/target/debug/.fingerprint/checkers-74283bc8e58c8bd8/output-test-bin-checkers" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkers1/checkers/target/debug/.fingerprint/checkers-74283bc8e58c8bd8/test-bin-checkers" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkers1/checkers/target/debug/.fingerprint/checkers-74283bc8e58c8bd8/test-bin-checkers.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkers1/checkers/target/debug/.fingerprint/checkers-8bb10497754264d7/bin-checkers" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkers1/checkers/target/debug/.fingerprint/checkers-8bb10497754264d7/bin-checkers.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkers1/checkers/target/debug/.fingerprint/checkers-8bb10497754264d7/dep-bin-checkers" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkers1/checkers/target/debug/.fingerprint/checkers-8bb10497754264d7/invoked.timestamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkers1/checkers/target/debug/.fingerprint/checkers-8bb10497754264d7/output-bin-checkers" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkers1/checkers/target/debug/checkers.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkers1/checkers/target/debug/checkers.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkers1/checkers/target/debug/checkers.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkers1/checkers/target/debug/deps/checkers-74283bc8e58c8bd8.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkers1/checkers/target/debug/deps/checkers-8bb10497754264d7.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkers1/checkers/target/debug/deps/checkers.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkers1/checkers/target/debug/deps/libcheckers-74283bc8e58c8bd8.rmeta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkers1/checkers/target/debug/deps/libcheckers-8bb10497754264d7.rmeta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkers1/checkers/target/debug/incremental/checkers-1bqq6368q4ssl/s-h3v3l5zl5f-1f3uo9w-bz9rm9t84ok6is84cadqlxha5/dep-graph.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkers1/checkers/target/debug/incremental/checkers-1bqq6368q4ssl/s-h3v3l5zl5f-1f3uo9w-bz9rm9t84ok6is84cadqlxha5/query-cache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkers1/checkers/target/debug/incremental/checkers-1bqq6368q4ssl/s-h3v3l5zl5f-1f3uo9w-bz9rm9t84ok6is84cadqlxha5/work-products.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkers1/checkers/target/debug/incremental/checkers-1bqq6368q4ssl/s-h3v3l5zl5f-1f3uo9w.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkers1/checkers/target/debug/incremental/checkers-1ejnc7i94z1xo/s-h3v3l5zl5i-1fcq3qo-aa75ggjb5clxjg97kuogw73n3/dep-graph.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkers1/checkers/target/debug/incremental/checkers-1ejnc7i94z1xo/s-h3v3l5zl5i-1fcq3qo-aa75ggjb5clxjg97kuogw73n3/query-cache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkers1/checkers/target/debug/incremental/checkers-1ejnc7i94z1xo/s-h3v3l5zl5i-1fcq3qo-aa75ggjb5clxjg97kuogw73n3/work-products.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkers1/checkers/target/debug/incremental/checkers-1ejnc7i94z1xo/s-h3v3l5zl5i-1fcq3qo.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkers1/checkers/target/debug/incremental/checkers-26894496p3rbt/s-h3v36xizix-0bvouod-2l1jrddt9aynxmu9n2mfy2oaj/08vap2zdqccexog3joknsqs0w.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkers1/checkers/target/debug/incremental/checkers-26894496p3rbt/s-h3v36xizix-0bvouod-2l1jrddt9aynxmu9n2mfy2oaj/0o3uo2b4qdf22hzvo6339hznx.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkers1/checkers/target/debug/incremental/checkers-26894496p3rbt/s-h3v36xizix-0bvouod-2l1jrddt9aynxmu9n2mfy2oaj/0qz2gqpucjw75roehfbr2tf3e.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkers1/checkers/target/debug/incremental/checkers-26894496p3rbt/s-h3v36xizix-0bvouod-2l1jrddt9aynxmu9n2mfy2oaj/2jxempmqkkwc0uu3bityk8b7s.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkers1/checkers/target/debug/incremental/checkers-26894496p3rbt/s-h3v36xizix-0bvouod-2l1jrddt9aynxmu9n2mfy2oaj/2t69y80p74fcxwol4vdr17279.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkers1/checkers/target/debug/incremental/checkers-26894496p3rbt/s-h3v36xizix-0bvouod-2l1jrddt9aynxmu9n2mfy2oaj/2vrsvqoooz31nq7nllbhi767f.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkers1/checkers/target/debug/incremental/checkers-26894496p3rbt/s-h3v36xizix-0bvouod-2l1jrddt9aynxmu9n2mfy2oaj/30pb2oa2a7ylsa16jyz7wdjv5.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkers1/checkers/target/debug/incremental/checkers-26894496p3rbt/s-h3v36xizix-0bvouod-2l1jrddt9aynxmu9n2mfy2oaj/30zj5an1hnxi8ua41srwjlw4w.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkers1/checkers/target/debug/incremental/checkers-26894496p3rbt/s-h3v36xizix-0bvouod-2l1jrddt9aynxmu9n2mfy2oaj/35bd7v79dgh72bswbqd8jusw8.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkers1/checkers/target/debug/incremental/checkers-26894496p3rbt/s-h3v36xizix-0bvouod-2l1jrddt9aynxmu9n2mfy2oaj/39tp5v1geup5laa67ljk1swmo.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkers1/checkers/target/debug/incremental/checkers-26894496p3rbt/s-h3v36xizix-0bvouod-2l1jrddt9aynxmu9n2mfy2oaj/3ix4oywy4qa4rno7dwsvqvurj.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkers1/checkers/target/debug/incremental/checkers-26894496p3rbt/s-h3v36xizix-0bvouod-2l1jrddt9aynxmu9n2mfy2oaj/44t7ussi4a9ma7y65ei4viplq.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkers1/checkers/target/debug/incremental/checkers-26894496p3rbt/s-h3v36xizix-0bvouod-2l1jrddt9aynxmu9n2mfy2oaj/47kqvrf8s1ht8hc39wxy6nkce.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkers1/checkers/target/debug/incremental/checkers-26894496p3rbt/s-h3v36xizix-0bvouod-2l1jrddt9aynxmu9n2mfy2oaj/48m2nd7cq7kjoxb4pwwz9ehpo.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkers1/checkers/target/debug/incremental/checkers-26894496p3rbt/s-h3v36xizix-0bvouod-2l1jrddt9aynxmu9n2mfy2oaj/4c09av2l2d9x90rnhf7dloz87.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkers1/checkers/target/debug/incremental/checkers-26894496p3rbt/s-h3v36xizix-0bvouod-2l1jrddt9aynxmu9n2mfy2oaj/4lvo5h671nsxtgj9qp9bo9b5d.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkers1/checkers/target/debug/incremental/checkers-26894496p3rbt/s-h3v36xizix-0bvouod-2l1jrddt9aynxmu9n2mfy2oaj/4m287pk9xu32wi20kcn72am1q.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkers1/checkers/target/debug/incremental/checkers-26894496p3rbt/s-h3v36xizix-0bvouod-2l1jrddt9aynxmu9n2mfy2oaj/4v7z3xlnt5yum4d76cqefhhzw.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkers1/checkers/target/debug/incremental/checkers-26894496p3rbt/s-h3v36xizix-0bvouod-2l1jrddt9aynxmu9n2mfy2oaj/4whcmj4ee1nvom6dik9qn2xzn.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkers1/checkers/target/debug/incremental/checkers-26894496p3rbt/s-h3v36xizix-0bvouod-2l1jrddt9aynxmu9n2mfy2oaj/4zqbshie967cx0n5m4xn3i6ao.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkers1/checkers/target/debug/incremental/checkers-26894496p3rbt/s-h3v36xizix-0bvouod-2l1jrddt9aynxmu9n2mfy2oaj/5icz65juuj0t4lz4fdbbswide.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkers1/checkers/target/debug/incremental/checkers-26894496p3rbt/s-h3v36xizix-0bvouod-2l1jrddt9aynxmu9n2mfy2oaj/5y21je2msivdhv5ekf6bxr8rq.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkers1/checkers/target/debug/incremental/checkers-26894496p3rbt/s-h3v36xizix-0bvouod-2l1jrddt9aynxmu9n2mfy2oaj/65sidzjiza8e3mq1y6auxiggw.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkers1/checkers/target/debug/incremental/checkers-26894496p3rbt/s-h3v36xizix-0bvouod-2l1jrddt9aynxmu9n2mfy2oaj/6i9zcvhrt2wdhs85uyloj3ehj.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkers1/checkers/target/debug/incremental/checkers-26894496p3rbt/s-h3v36xizix-0bvouod-2l1jrddt9aynxmu9n2mfy2oaj/6pjwrd5hu3x17jt5pjftfjwnb.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkers1/checkers/target/debug/incremental/checkers-26894496p3rbt/s-h3v36xizix-0bvouod-2l1jrddt9aynxmu9n2mfy2oaj/6qthvgsm7imrt9ws8lgte66hl.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkers1/checkers/target/debug/incremental/checkers-26894496p3rbt/s-h3v36xizix-0bvouod-2l1jrddt9aynxmu9n2mfy2oaj/6rjl7plcwwtq8iv4n9922rq00.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkers1/checkers/target/debug/incremental/checkers-26894496p3rbt/s-h3v36xizix-0bvouod-2l1jrddt9aynxmu9n2mfy2oaj/70o0fn6oouhl1yonxdyb85kfe.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkers1/checkers/target/debug/incremental/checkers-26894496p3rbt/s-h3v36xizix-0bvouod-2l1jrddt9aynxmu9n2mfy2oaj/75au6d6qhi12b3fef7iiz8t2q.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkers1/checkers/target/debug/incremental/checkers-26894496p3rbt/s-h3v36xizix-0bvouod-2l1jrddt9aynxmu9n2mfy2oaj/7iajl9fsazxnhisrk6t5o1pp8.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkers1/checkers/target/debug/incremental/checkers-26894496p3rbt/s-h3v36xizix-0bvouod-2l1jrddt9aynxmu9n2mfy2oaj/7p7jl5pebz3mv93f52cq7171e.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkers1/checkers/target/debug/incremental/checkers-26894496p3rbt/s-h3v36xizix-0bvouod-2l1jrddt9aynxmu9n2mfy2oaj/7su34l26nnfq775w3l3dd8lfe.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkers1/checkers/target/debug/incremental/checkers-26894496p3rbt/s-h3v36xizix-0bvouod-2l1jrddt9aynxmu9n2mfy2oaj/7tt5z25p84cawebxd28ta1p74.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkers1/checkers/target/debug/incremental/checkers-26894496p3rbt/s-h3v36xizix-0bvouod-2l1jrddt9aynxmu9n2mfy2oaj/7xi3ppc84w033oljp2igehgzj.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkers1/checkers/target/debug/incremental/checkers-26894496p3rbt/s-h3v36xizix-0bvouod-2l1jrddt9aynxmu9n2mfy2oaj/7zxuft13e57y4f2fw0r02ahj9.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkers1/checkers/target/debug/incremental/checkers-26894496p3rbt/s-h3v36xizix-0bvouod-2l1jrddt9aynxmu9n2mfy2oaj/8i6v0ftvfjsta0x01j1nfyj1t.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkers1/checkers/target/debug/incremental/checkers-26894496p3rbt/s-h3v36xizix-0bvouod-2l1jrddt9aynxmu9n2mfy2oaj/8n0alfl0r25jyrb0icdu7p8il.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkers1/checkers/target/debug/incremental/checkers-26894496p3rbt/s-h3v36xizix-0bvouod-2l1jrddt9aynxmu9n2mfy2oaj/90tdki9d29yonbyj7akvjr43e.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkers1/checkers/target/debug/incremental/checkers-26894496p3rbt/s-h3v36xizix-0bvouod-2l1jrddt9aynxmu9n2mfy2oaj/9ensft15tom0yblxx32u18ueg.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkers1/checkers/target/debug/incremental/checkers-26894496p3rbt/s-h3v36xizix-0bvouod-2l1jrddt9aynxmu9n2mfy2oaj/9qr0c1ies6xcbqg4odx4ga9c1.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkers1/checkers/target/debug/incremental/checkers-26894496p3rbt/s-h3v36xizix-0bvouod-2l1jrddt9aynxmu9n2mfy2oaj/9voa5vwjfcukjksthb7all0rh.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkers1/checkers/target/debug/incremental/checkers-26894496p3rbt/s-h3v36xizix-0bvouod-2l1jrddt9aynxmu9n2mfy2oaj/9vqf9zx3neqsnv3cr1588m3pw.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkers1/checkers/target/debug/incremental/checkers-26894496p3rbt/s-h3v36xizix-0bvouod-2l1jrddt9aynxmu9n2mfy2oaj/a09vl0xhryv5gkdd3nyleizee.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkers1/checkers/target/debug/incremental/checkers-26894496p3rbt/s-h3v36xizix-0bvouod-2l1jrddt9aynxmu9n2mfy2oaj/a6pyvt896acsjjl3xsq35pbnz.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkers1/checkers/target/debug/incremental/checkers-26894496p3rbt/s-h3v36xizix-0bvouod-2l1jrddt9aynxmu9n2mfy2oaj/aay26ki3n0kclrgoshdpueo1l.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkers1/checkers/target/debug/incremental/checkers-26894496p3rbt/s-h3v36xizix-0bvouod-2l1jrddt9aynxmu9n2mfy2oaj/aazw357oou53t98jsqk24ow2q.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkers1/checkers/target/debug/incremental/checkers-26894496p3rbt/s-h3v36xizix-0bvouod-2l1jrddt9aynxmu9n2mfy2oaj/adownjyvendb4e4m9vj6rsuv7.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkers1/checkers/target/debug/incremental/checkers-26894496p3rbt/s-h3v36xizix-0bvouod-2l1jrddt9aynxmu9n2mfy2oaj/aep60wit7wl9hoyoxh8baoybv.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkers1/checkers/target/debug/incremental/checkers-26894496p3rbt/s-h3v36xizix-0bvouod-2l1jrddt9aynxmu9n2mfy2oaj/aqorryr5hxznr19h2bijena8u.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkers1/checkers/target/debug/incremental/checkers-26894496p3rbt/s-h3v36xizix-0bvouod-2l1jrddt9aynxmu9n2mfy2oaj/awn6v5yqwu1dp57ersrhvzdf8.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkers1/checkers/target/debug/incremental/checkers-26894496p3rbt/s-h3v36xizix-0bvouod-2l1jrddt9aynxmu9n2mfy2oaj/aze1gckig4hrglblqbb9mb6e0.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkers1/checkers/target/debug/incremental/checkers-26894496p3rbt/s-h3v36xizix-0bvouod-2l1jrddt9aynxmu9n2mfy2oaj/bep9vtyxi120btkbzn6p8thkz.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkers1/checkers/target/debug/incremental/checkers-26894496p3rbt/s-h3v36xizix-0bvouod-2l1jrddt9aynxmu9n2mfy2oaj/bhshr0mqij2bsg71mdckc78el.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkers1/checkers/target/debug/incremental/checkers-26894496p3rbt/s-h3v36xizix-0bvouod-2l1jrddt9aynxmu9n2mfy2oaj/bttomvw6tzpnsyx291m6fbaom.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkers1/checkers/target/debug/incremental/checkers-26894496p3rbt/s-h3v36xizix-0bvouod-2l1jrddt9aynxmu9n2mfy2oaj/chq55ncurc3ctd7u8yuesu9kr.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkers1/checkers/target/debug/incremental/checkers-26894496p3rbt/s-h3v36xizix-0bvouod-2l1jrddt9aynxmu9n2mfy2oaj/cny3epn7oairzp8l8sd18aabz.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkers1/checkers/target/debug/incremental/checkers-26894496p3rbt/s-h3v36xizix-0bvouod-2l1jrddt9aynxmu9n2mfy2oaj/cuqfoggqo6c889i9hvmxiyv24.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkers1/checkers/target/debug/incremental/checkers-26894496p3rbt/s-h3v36xizix-0bvouod-2l1jrddt9aynxmu9n2mfy2oaj/dbj1c6pwlwai40r7epjrmdf7k.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkers1/checkers/target/debug/incremental/checkers-26894496p3rbt/s-h3v36xizix-0bvouod-2l1jrddt9aynxmu9n2mfy2oaj/dep-graph.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkers1/checkers/target/debug/incremental/checkers-26894496p3rbt/s-h3v36xizix-0bvouod-2l1jrddt9aynxmu9n2mfy2oaj/dsedyj8st0kzormh2a6lk7d0t.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkers1/checkers/target/debug/incremental/checkers-26894496p3rbt/s-h3v36xizix-0bvouod-2l1jrddt9aynxmu9n2mfy2oaj/dw44t0v0syb9lrejajqux4tm9.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkers1/checkers/target/debug/incremental/checkers-26894496p3rbt/s-h3v36xizix-0bvouod-2l1jrddt9aynxmu9n2mfy2oaj/e2fmsl1mxrv9gdx3hso82iz82.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkers1/checkers/target/debug/incremental/checkers-26894496p3rbt/s-h3v36xizix-0bvouod-2l1jrddt9aynxmu9n2mfy2oaj/e9kxe2k7ain0hgbkb49p1ehjx.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkers1/checkers/target/debug/incremental/checkers-26894496p3rbt/s-h3v36xizix-0bvouod-2l1jrddt9aynxmu9n2mfy2oaj/ej4gzpf4zwx9ecvxfllgtl5wp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkers1/checkers/target/debug/incremental/checkers-26894496p3rbt/s-h3v36xizix-0bvouod-2l1jrddt9aynxmu9n2mfy2oaj/f0e6i3wb1fc9dnbk2yz6vr7ss.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkers1/checkers/target/debug/incremental/checkers-26894496p3rbt/s-h3v36xizix-0bvouod-2l1jrddt9aynxmu9n2mfy2oaj/f0fmxln32je89vl0rfiawf1nl.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkers1/checkers/target/debug/incremental/checkers-26894496p3rbt/s-h3v36xizix-0bvouod-2l1jrddt9aynxmu9n2mfy2oaj/query-cache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkers1/checkers/target/debug/incremental/checkers-26894496p3rbt/s-h3v36xizix-0bvouod-2l1jrddt9aynxmu9n2mfy2oaj/work-products.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../checkers1/checkers/target/debug/incremental/checkers-26894496p3rbt/s-h3v36xizix-0bvouod.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend" beforeDir="false" afterPath="$PROJECT_DIR$/backend" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/usermanagement/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/usermanagement/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/README.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/backend" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="98spubhA" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2t3fWwVF0urorN1DwoF0Gk8wxU7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/IuryF/Desktop/IURY_projects/to-do-list",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "org.rust.first.attach.projects": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="user-management" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="user-management" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="user-management" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Python.FlaskServer">
+      <module name="user-management" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <module name="user-management" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="RustProjectSettings">
+    <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fdfe4dae3a2d-intellij.indexing.shared.core-IU-243.22562.218" />
+        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-IU-243.22562.218" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="12f66a73-d44b-4868-bb19-b109e25640fd" name="Changes" comment="" />
+      <created>1739585717035</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1739585717035</updated>
+      <workItem from="1739585718692" duration="2296000" />
+      <workItem from="1739807745225" duration="2369000" />
+      <workItem from="1739817935158" duration="110000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
