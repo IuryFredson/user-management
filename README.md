@@ -27,7 +27,7 @@ Antes de começar, certifique-se de ter instalado:
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/user-management.git
+   git clone https://github.com/IuryFredson/user-management.git
    ```
 
 2. Navegue até o diretório do projeto:
