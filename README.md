@@ -84,15 +84,15 @@ O frontend estará disponível em http://localhost:5173.
 ## **Contribuição**
 Se você deseja contribuir para este projeto, siga os passos abaixo:
 
-Faça um **fork** do repositório.
+1. Faça um **fork** do repositório.
 
-Crie uma branch para sua feature (git checkout -b feature/nova-feature).
+2. Crie uma branch para sua feature (git checkout -b feature/nova-feature).
 
-Commit suas mudanças (git commit -m 'Adicionando nova feature').
+3. Commit suas mudanças (git commit -m 'Adicionando nova feature').
 
-Push para a branch (git push origin feature/nova-feature).
+4. Push para a branch (git push origin feature/nova-feature).
 
-Abra um **Pull Request**.
+5. Abra um **Pull Request**.
 
 
 
