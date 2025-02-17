@@ -64,7 +64,8 @@ npm run dev
 ```
 O frontend estará disponível em http://localhost:5173.
 
-##**Endpoints da API**
+
+## **Endpoints da API**
 - **GET**/api/v1/users/{id} - Retorna um usuário específico pelo ID.
 
 - **POST** /api/v1/users - Cria um novo usuário.
@@ -73,12 +74,14 @@ O frontend estará disponível em http://localhost:5173.
 
 - **DELETE** /api/v1/users/{id} - Exclui um usuário.
 
-##**Estrutura do Projeto**
+
+## **Estrutura do Projeto**
 **Backend**: Spring Boot com controllers, services e repositórios.
 
 **Frontend**: React com componentes para listar, criar, editar e excluir usuários.
 
-##**Contribuição**
+
+## **Contribuição**
 Se você deseja contribuir para este projeto, siga os passos abaixo:
 
 Faça um **fork** do repositório.
